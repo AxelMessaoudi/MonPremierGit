@@ -1,4 +1,6 @@
-
+/*
+ * pouet !!
+ */
 public class ClasseQuiSertARien {
 
 }
